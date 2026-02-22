@@ -1,7 +1,5 @@
 <div align="center">
 Hi, I'm Karabo
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Always+Learning" alt="Typing SVG" />
 </div>
 
 <!--
