@@ -2,7 +2,7 @@
 Hi, I'm Karabo
 </div>
 
-<details open>
+
 <summary><b>Frontend</b></summary>
 <br> 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="100" /></a>
