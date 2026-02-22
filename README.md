@@ -2,19 +2,14 @@
 Hi, I'm Karabo
 </div>
 
-<details open>
-<summary><b>Frontend</b></summary>
 <br> 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="100" /></a>
-<details open>
-<summary><b>Backend</b></summary>
+
 <br>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="100" /></a>
-</details>
-<details open>
-<summary><b>Tools & More</b></summary>
+
 <br>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="100" /></a>
@@ -23,7 +18,6 @@ Hi, I'm Karabo
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="100" /></a>
-</details>
 
 <!--
 **karabomasoeu/karabomasoeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
