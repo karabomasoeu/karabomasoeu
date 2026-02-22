@@ -11,18 +11,18 @@ Hi, I'm Karabo
 <details open>
 <summary><b>Backend</b></summary>
 <br>
-https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="100" /></a>
 </details>
 <details>
 <summary><b>Tools & More</b></summary>
 <br>
-https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white
-https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white
-https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="100" /></a>
 </details>
 
 <!--
