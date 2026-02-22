@@ -13,7 +13,7 @@ Hi, I'm Karabo
 <br>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="100" /></a>
 </details>
-<details>
+<details open>
 <summary><b>Tools & More</b></summary>
 <br>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="100" /></a>
