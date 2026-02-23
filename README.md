@@ -31,9 +31,6 @@ Hi, I'm Karabo
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karabomasoeu&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karabomasoeu&layout=compact&langs_count=8"/>
 </div> -->
-<div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme=default"/>
-</div>
 
 <!--
 **karabomasoeu/karabomasoeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
