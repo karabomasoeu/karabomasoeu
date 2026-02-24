@@ -19,11 +19,8 @@ Hi, I'm Karabo
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="100" /></a> -->
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karabomasoeu&layout=compact&langs_count=8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karabomasoeu&show_icons=true&include_all_commits=true&count_private=true"/>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karabomasoeu&show_icons=true&locale=en" alt="karabomasoeu" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karabomasoeu&show_icons=true&locale=en" alt="karabomasoeu" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&" alt="karabomasoeu" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&" alt="karabomasoeu" /></p>
 
