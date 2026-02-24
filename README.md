@@ -19,6 +19,8 @@ Hi, I'm Karabo
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="100" /></a> -->
 
+<div align="center">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&" alt="karabomasoeu" /></p>
+</div>
 
