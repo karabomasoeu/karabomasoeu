@@ -3,9 +3,9 @@ Hi, I'm Karabo
 </div>
 
 <br> 
-<!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="100" /></a> -->
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="100" /></a>
 
 <!-- <br>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="100" /></a>
