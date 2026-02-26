@@ -20,6 +20,10 @@ Hi, I'm Karabo
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="100" /></a> -->
 
 <div align="center">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme=github-light"/>
+</div>
+
+<div align="center">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&" alt="karabomasoeu" /></p>
 </div>
