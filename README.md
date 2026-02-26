@@ -1,7 +1,7 @@
 <div align="center">
-<strong>
+<h1 style="font-size: 2rem;">
 Hi, I'm Karabo
-</strong>
+</h1>
 </div>
 
 <div align="center">
