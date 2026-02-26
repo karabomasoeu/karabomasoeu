@@ -1,5 +1,7 @@
 <div align="center">
+<strong>
 Hi, I'm Karabo
+</strong>
 </div>
 
 <div align="center">
