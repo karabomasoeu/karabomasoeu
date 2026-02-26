@@ -6,7 +6,7 @@ Hi, I'm Karabo
 
 <div align="center">
 <br>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="100" /></a>
