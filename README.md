@@ -21,7 +21,7 @@ Hi, I'm Karabo
 </div>
 
 <div align="center">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme=github-light"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme=ambient-gradient"/>
 </div>
 
 <div align="center">
