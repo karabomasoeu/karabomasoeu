@@ -25,7 +25,7 @@ Hi, I'm Karabo
 </div>
 
 <div align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&" alt="karabomasoeu" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karabomasoeu&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karabomasoeu&layout=compact&langs_count=8&theme=default"/>
 </div>
 
