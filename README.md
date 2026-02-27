@@ -6,20 +6,6 @@ Hi, I'm Karabo
 
 <div align="center">
 <br>
-<!-- <a href="URL_REDIRECT" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
-<a href="URL_REDIRECT" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="100" /></a> 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="100" /></a> 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="100" /></a>  -->
-
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
