@@ -31,8 +31,6 @@ Hi, I'm Karabo
 </div>
 <br>
 <div align="center">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karabomasoeu&show_icons=true&theme=blueberry-duo&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karabomasoeu&layout=compact&langs_count=8&theme=blueberry-duo"/> -->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme=ambient-gradient"/>
 </div>
 
