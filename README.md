@@ -4,7 +4,7 @@ Hi, I'm Karabo
 </h1>
 <div align="center">
 <br>
-🚧 Work In Progress 
+(🚧 Work In Progress)
 </div>
 
 <div align="center">
