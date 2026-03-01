@@ -2,9 +2,10 @@
 <h1 style="font-size: 2rem;">
 Hi, I'm Karabo
 </h1>
-</div>
+<div align="center">
 <br>
 🚧 Work In Progress 
+</div>
 
 <div align="center">
 <br>
