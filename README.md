@@ -31,3 +31,4 @@ Hi, I'm Karabo
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme=ambient-gradient"/>
 </div>
 
+<- https://linkedin.com/in/karabomasoeu ->
