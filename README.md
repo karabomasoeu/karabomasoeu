@@ -31,8 +31,8 @@ Hi, I'm Karabo
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme=ambient-gradient"/>
 </div>
 
-<- https://linkedin.com/in/karabomasoeu
+<!-- https://linkedin.com/in/karabomasoeu
 https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://portfolio.com/
 https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
-->
+-->
