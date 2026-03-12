@@ -2,7 +2,14 @@
 (🚧 Work In Progress)
 
 <h1 style="font-size: 2rem;">
-Hi, I'm Karabo
+class Developer:
+    def __init__(self):
+        self.name = "Karabo"
+        self.role = "Front End Developer"
+        self.language_spoken = ["en_US", "python", "javascript"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by!")
 </h1>
 <div align="center">
 </div>
