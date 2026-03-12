@@ -2,8 +2,10 @@
 (🚧 Work In Progress)
 
 <h1 style="font-size: 2rem;">
-"class Developer:
+class Developer:
+<br>
     def __init__(self):
+<br>
         self.name = "Karabo"
         self.role = "Front End Developer"
         self.language_spoken = ["en_US", "python", "javascript"]
