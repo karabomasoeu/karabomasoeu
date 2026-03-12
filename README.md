@@ -1,10 +1,10 @@
 <div align="center">
+(🚧 Work In Progress)
+
 <h1 style="font-size: 2rem;">
 Hi, I'm Karabo
 </h1>
 <div align="center">
-<br>
-(🚧 Work In Progress)
 </div>
 <br>
 <p align="center">
