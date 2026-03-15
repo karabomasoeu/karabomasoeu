@@ -32,14 +32,14 @@ class Developer:
 </p>
 <br>
 </div>
-<br>
+<!-- <br>
 <div align="center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme=ambient-gradient"/>
 </div>
 <br>
 <div align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme=ambient-gradient"/>
-</div>
+</div> -->
 
 <!-- 
 Add WakaTime here
