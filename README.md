@@ -40,7 +40,7 @@ class Developer:
 <div align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme=ambient-gradient"/>
 </div> -->
-https://github-readme-stats.vercel.app/api/top-langs/?username=karabomasoeu&layout=compact&theme=radical
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karabomasoeu&layout=compact&theme=radical"/>
 <!-- 
 Add WakaTime here
 
