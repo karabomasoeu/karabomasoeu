@@ -69,8 +69,8 @@ hobbies: [""]
 <br>
 <div align="center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme="/>
+<br>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme="/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karabomasoeu&layout=compact&theme="/> 
 </div>
 <!-- 
 Add WakaTime here
