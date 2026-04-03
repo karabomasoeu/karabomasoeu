@@ -32,7 +32,8 @@ class Developer:
 <br>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
+<p>
+```yaml
 name: Karabo Masoeu
 located_in: Gauteng, South Africa
 current_job: Software Development Student
@@ -58,6 +59,7 @@ technical_background:
 currently_learning: ["Node.js and React Native"]
 2026 Goals: [""]
 hobbies: [""]
+</p>
 <br>
 </div>
 
