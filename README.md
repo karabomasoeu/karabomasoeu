@@ -30,7 +30,7 @@ class Developer:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50" height="50"/>
 </p>
 <br>
----
+
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
