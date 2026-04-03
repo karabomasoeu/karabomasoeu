@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 (🚧 Work In Progress)
 
 <!-- <h1 style="font-size: 2rem;">
@@ -13,8 +13,7 @@ class Developer:
     def say_hi(self):
         print("Thanks for dropping by!")"
 </h1> -->
-<div align="center">
-</div>
+
 <br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -31,9 +30,9 @@ class Developer:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50" height="50"/>
 </p>
 <br>
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```yaml
 name: Karabo Masoeu
 located_in: Gauteng, South Africa
 current_job: Software Development Student
@@ -60,8 +59,8 @@ currently_learning: ["Node.js and React Native"]
 2026 Goals: [""]
 hobbies: [""]
 <br>
-
 </div>
+
 <!-- <br>
 <div align="center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme=ambient-gradient"/>
