@@ -30,7 +30,7 @@ class Developer:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50" height="50"/>
 </p>
 <br>
-
+---
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 <p>
 ```yaml
@@ -59,6 +59,10 @@ technical_background:
 currently_learning: ["Node.js and React Native"]
 2026 Goals: [""]
 hobbies: [""]
+
+```
+  
+---
 </p>
 <br>
 </div>
