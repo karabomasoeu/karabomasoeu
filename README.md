@@ -31,6 +31,36 @@ class Developer:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50" height="50"/>
 </p>
 <br>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Karabo Masoeu
+located_in: Gauteng, South Africa
+current_job: Software Development Student
+
+education:
+  [
+    "Software Development",
+    ""
+  ]
+company: 
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "UI/UX Design"
+  ]
+technical_background:
+  [
+    "Projects"
+  ]
+  
+currently_learning: ["Node.js and React Native"]
+2026 Goals: [""]
+hobbies: [""]
+<br>
+
 </div>
 <!-- <br>
 <div align="center">
