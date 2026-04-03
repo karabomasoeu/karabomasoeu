@@ -66,14 +66,14 @@ hobbies: [""]
 <br>
 </div>
 
+<div align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme="/>
+</div>
 <br>
 <div align="center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme="/>
 </div>
-<div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme="/>
-    
-</div>
+
 <!-- 
 Add WakaTime here
 
