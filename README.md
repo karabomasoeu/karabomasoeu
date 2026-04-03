@@ -1,5 +1,5 @@
 <div>
-(🚧 Work In Progress)
+<h1 align="center"> (🚧 Work In Progress) </h1>
 
 <!-- <h1 style="font-size: 2rem;">
 class Developer:
