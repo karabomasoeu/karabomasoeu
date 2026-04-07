@@ -31,13 +31,13 @@ class Developer:
 </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme="/>
 </div>
 <br>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme="/>
-</div>
+</div> -->
 
 <!-- 
 https://linkedin.com/in/karabomasoeu
