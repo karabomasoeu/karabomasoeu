@@ -1,7 +1,7 @@
 <div>
 <h1 align="center"> (🚧 Work In Progress) </h>
     
-<h1 style="font-size: 2rem;">
+<!-- <h1 style="font-size: 2rem;">
 class Developer:
 <br>
     def __init__(self):
@@ -42,4 +42,4 @@ class Developer:
 <!--
 https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
--->
+--> -->
