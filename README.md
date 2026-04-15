@@ -1,7 +1,7 @@
 <div>
-<h1 align="center"> (🚧 Work In Progress) </h1>
-
-<!-- <h1 style="font-size: 2rem;">
+<h1 align="center"> (🚧 Work In Progress) </h>
+    
+<h1 style="font-size: 2rem;">
 class Developer:
 <br>
     def __init__(self):
@@ -12,7 +12,7 @@ class Developer:
         
     def say_hi(self):
         print("Thanks for dropping by!")"
-</h1> -->
+</h1>
 
 <br>
 <p align="center">
