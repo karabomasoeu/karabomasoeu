@@ -1,19 +1,7 @@
-<div>
-<h1 align="center"> (🚧 Work In Progress) </h>
+<!-- <div>
+<h1 align="center"> (🚧 Work In Progress) </h> </div -->
     
-<!-- <h1 style="font-size: 2rem;">
-class Developer:
-<br>
-    def __init__(self):
-<br>
-        self.name = "Karabo"
-        self.role = "Front End Developer"
-        self.language_spoken = ["en_US", "python", "javascript"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by!")"
-</h1>
-
+<!-- 
 <br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -31,15 +19,3 @@ class Developer:
 </p>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karabomasoeu&theme="/>
-</div>
-<!-- <br>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karabomasoeu&theme="/>
-</div> -->
-
-<!--
-https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
--->
