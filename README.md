@@ -1,16 +1,6 @@
 <!-- <div>
-<h1 align="center"> (🚧 Work In Progress) </h> </div> -->
+<h1 align="center"> (🚧 Work In Progress) </h> </div>
 
-<div align="center">
-class Developer:
-    def __init__(self):
-        self.name = "Karabo"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["python", "javascript"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by!")
-</div>
 <br>
 <div>
 <p align="center">
@@ -27,5 +17,4 @@ class Developer:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50" height="50"/>
 </p>
-</div>
-
+</div> -->
